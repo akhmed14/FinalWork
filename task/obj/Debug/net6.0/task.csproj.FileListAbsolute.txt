@@ -1,0 +1,15 @@
+/Users/akhmed/mdp/final/task/bin/Debug/net6.0/task
+/Users/akhmed/mdp/final/task/bin/Debug/net6.0/task.deps.json
+/Users/akhmed/mdp/final/task/bin/Debug/net6.0/task.runtimeconfig.json
+/Users/akhmed/mdp/final/task/bin/Debug/net6.0/task.dll
+/Users/akhmed/mdp/final/task/bin/Debug/net6.0/task.pdb
+/Users/akhmed/mdp/final/task/obj/Debug/net6.0/task.csproj.AssemblyReference.cache
+/Users/akhmed/mdp/final/task/obj/Debug/net6.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akhmed/mdp/final/task/obj/Debug/net6.0/task.AssemblyInfoInputs.cache
+/Users/akhmed/mdp/final/task/obj/Debug/net6.0/task.AssemblyInfo.cs
+/Users/akhmed/mdp/final/task/obj/Debug/net6.0/task.csproj.CoreCompileInputs.cache
+/Users/akhmed/mdp/final/task/obj/Debug/net6.0/task.dll
+/Users/akhmed/mdp/final/task/obj/Debug/net6.0/refint/task.dll
+/Users/akhmed/mdp/final/task/obj/Debug/net6.0/task.pdb
+/Users/akhmed/mdp/final/task/obj/Debug/net6.0/task.genruntimeconfig.cache
+/Users/akhmed/mdp/final/task/obj/Debug/net6.0/ref/task.dll
